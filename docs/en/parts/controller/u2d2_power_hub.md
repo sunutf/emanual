@@ -20,8 +20,9 @@ Combined with U2D2, it can supply various kinds of external power supply to supp
 
 |Item|Details|
 |:---:|:---:|
-|Maximum Voltage|24.0V|
-|Maximum Current|10.0A|
+
+|Voltage range|7.4V ~ 24.0V|
+|Maximum Current|5.0A|
 
 # [Layout](#layout)
 
